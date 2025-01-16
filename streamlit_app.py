@@ -2,7 +2,7 @@ import streamlit as st
 
 left, right = st.columns(2)
 
-left.image("profile.PNG", width=250)
+left.image("profilepic.jpeg", width=250)
 
 right.header("Kira Akimov", anchor=False)
 
