@@ -23,7 +23,7 @@ st.subheader("Fachmittelschule Schaumburgergasse, Wien", anchor=False)
 st.write("""
            - ► Schwerpunkt: Intensive IT-Spezialisierung, Fokus auf modernen Webtechnologien und Wirtschaft
            - ► Zeitraum: September 2024 - Juli 2025
-           - ► Derzeitiger Notenschnitt: 1,5
+           - ► Derzeitiger Notenschnitt: 3 - 2
          """)
 
 st.subheader("FMS4 Schaumburgergasse 4, Wien", anchor=False)
@@ -37,7 +37,8 @@ st.header("Arbeitserfahrung", anchor=False, divider="blue")
 
 st.write("""
             - 🚀 Berufspraktische Tage 1: Bei Mcdonald's von 18. bis 22. feb. 2024
-            - 🚀 Berufspraktische Tage 2: Bei Kfc von 24. bis 28. Feb. 2023 
+            - 🚀 Berufspraktische Tage 2: Bei Kindergarten von 18. bis 22. Nov. 2024
+            - 🚀 Berufspraktische Tage 3: Bei Kfc von 24. bis 28. Feb. 2023 
          """)
 
 st.header("Zusätzliche Qualifikationen", anchor=False,divider="blue")
@@ -45,7 +46,7 @@ st.header("Zusätzliche Qualifikationen", anchor=False,divider="blue")
 st.write("""
             - 🌟 Schnelle Auffassungsgabe für neue Softwareanwendungen und Technologien
             - 🌟 Großes Interesse an der kontinuierlichen Weiterentwicklung im IT-Bereich
-            - 🌟 Teamfähigkeit und Kommunikationsstärke bei gemeinsamen Coding-Projekten
+            - 🌟 Teamfähigkeit und Kommunikationsstärke , Sich gegenseitig im Team beim Programmieren unterschtützt
          """)
 
 st.header("Interessen und Hobbys", anchor=False, divider="blue")
@@ -55,5 +56,5 @@ st.header("Interessen und Hobbys", anchor=False, divider="blue")
 st.write("""
             - 🌌 Fashion Design: Skizzen von kleidungen
             - 🌌 Sprachen: Fluent in 4 sprachen (De, Eng, Ru, ukr) und lernt noch zwei sprachen 
-            - 🌌 Schach: Engagiert im Schachklub
+            - 🌌 
          """)
